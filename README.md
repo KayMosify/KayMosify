@@ -1,11 +1,25 @@
-- 👋 Hi, I’m @KayMosify
-- 👀 I’m interested in web development, UI/UX design, and creating interactive user experiences.
-- 🌱 I’m currently learning JavaScript to enhance my skills in building dynamic and responsive web applications.
-- 💞️ I’m looking to collaborate on exciting projects that involve frontend technologies, especially those that focus on user engagement and accessibility.
-- 📫 How to reach me: You can contact me via email at kayodemos95@gmail.com or connect with me on Twitter at x.com/olanirankayod10.
-- 😄 Pronouns: He/him
-- ⚡ Fun fact: I love solving puzzles and playing video games in my free time!
-<!---
-KayMosify/KayMosify is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi there, I’m Olaniran Oluwakayode Amos 👋
+🌟 Transforming Ideas into Digital Realities
+
+About Me 👨‍💻
+I'm an aspiring software developer with a passion for exploring the endless possibilities of code. I’m currently learning React.js and strengthening my understanding of front-end fundamentals like HTML, CSS, JavaScript and Tailwind CSS.
+
+As a lifelong learner, I believe in staying curious and continuously improving my skills. Collaboration is key for me—I love working with others to solve challenges and build impactful projects.
+
+Skills: HTML | CSS | Tailwind CSS | JavaScript | React.js (currently learning) | Git
+🌱 What I'm Working On
+• Currently building projects with React.js
+• Focused on mastering more programming languages and building interactive web experiences
+• Learning new web technologies to improve development skills
+• Ask me about web development, coding, or problem-solving challenges
+• Pronouns: he/him
+
+📫 Let's Connect
+• X (formerly Twitter): @Olanirankayod10_
+
+• LinkedIn: https://www.linkedin.com/in/kayodemos
+
+• Email: kayodemos95@gmail.com
+
+🚀 My Tech Stack
+HTML5 🖥️ CSS3 🎨 JavaScript 💻 Node.js 🌱 React ⚛️ Express 🏗️ MongoDB 📊 MySQL 🗄️ Git 🎨 Tailwind CSS 🧑‍💻
